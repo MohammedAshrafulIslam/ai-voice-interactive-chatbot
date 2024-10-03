@@ -1,0 +1,14 @@
+# Sensitive files
+
+dialogflow-key.json
+.env
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Other system files
+.DS_Store
