@@ -1,8 +1,7 @@
 # Sensitive files
 
 dialogflow-key.json
-config/
-.env
+config/config.env
 
 # Node.js dependencies
 node_modules/
